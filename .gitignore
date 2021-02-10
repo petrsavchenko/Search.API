@@ -1,0 +1,14 @@
+syntax: glob
+obj
+bin
+*.suo
+*.user
+Bin
+_ReSharper*
+.vscode/
+.vs/
+ 
+## NuGet
+packages/
+
+**/*/appsettings.local.json
