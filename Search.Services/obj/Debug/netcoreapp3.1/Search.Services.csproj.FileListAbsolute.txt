@@ -1,0 +1,9 @@
+C:\Projects\Search\Search.Services\bin\Debug\netcoreapp3.1\Search.Services.deps.json
+C:\Projects\Search\Search.Services\bin\Debug\netcoreapp3.1\Search.Services.dll
+C:\Projects\Search\Search.Services\bin\Debug\netcoreapp3.1\Search.Services.pdb
+C:\Projects\Search\Search.Services\obj\Debug\netcoreapp3.1\Search.Services.csprojAssemblyReference.cache
+C:\Projects\Search\Search.Services\obj\Debug\netcoreapp3.1\Search.Services.AssemblyInfoInputs.cache
+C:\Projects\Search\Search.Services\obj\Debug\netcoreapp3.1\Search.Services.AssemblyInfo.cs
+C:\Projects\Search\Search.Services\obj\Debug\netcoreapp3.1\Search.Services.csproj.CoreCompileInputs.cache
+C:\Projects\Search\Search.Services\obj\Debug\netcoreapp3.1\Search.Services.dll
+C:\Projects\Search\Search.Services\obj\Debug\netcoreapp3.1\Search.Services.pdb

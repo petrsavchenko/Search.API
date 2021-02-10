@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRqEBe5oEwVx/1CHe/J4OldZ87s6C37AnPL2o041o0cOj5fKKxwOUDPeyiBtfVscMR+M54lCS03wc4tA9DJxXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Search\\Search.Services\\Search.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
