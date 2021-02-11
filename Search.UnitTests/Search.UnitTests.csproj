@@ -18,4 +18,13 @@
     <ProjectReference Include="..\Search.Services\Search.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="blaBlaCarMainResultsOnly.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="infotrackMainResultsAndAds.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

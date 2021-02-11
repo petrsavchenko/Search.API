@@ -40,6 +40,15 @@ namespace Search.Services
         // for greater flexibility
         public async Task<string> GetSearchPositions(string keywords, string url)
         {
+            if (string.IsNullOrWhiteSpace(keywords) || string.IsNullOrWhiteSpace(url))
+            {
+                throw new ArgumentNullException("input parameters must be set");
+            }
+            if (!Uri.IsWellFormedUriString(url, UriKind.Absolute))
+            {
+                throw new ArgumentException("url must be valid");
+            }
+
             var searchUrl = $"{settings.Host}/search?q={string.Join('+', keywords.Split(" "))}&num=50&hl=en";
             logger.LogInformation(searchUrl);
 
