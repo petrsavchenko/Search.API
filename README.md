@@ -5,7 +5,7 @@ For example, "1, 10, 33" or "0".
 It analises URLs appeared in the first 50 results.
 
 Special requirements are:
-  * No 3rd party libraries for scraping the HTML pages
+  * **No 3rd party libraries for scraping the HTML pages** otherwise I would use google/bing api or Html Agility Pack to parse html
   * Ajax calls
   * DI
   * Logging 
